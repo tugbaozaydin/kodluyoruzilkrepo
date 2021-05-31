@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Repo fotoğrafı](https://github.com/tugbaozaydin/kodluyoruzilkrepo/image/repo.png)
+![Repo fotoğrafı](image/repo.png)
 
 # Installation
 Öncelikle projeyi clonelayın.
